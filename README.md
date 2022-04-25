@@ -17,7 +17,7 @@ Suburban	625	            490	            $19,356.33	            $30.97	         
 Urban	    1,625	        2,405	        $39,854.38	            $24.53	            $16.57
 ```
 
-![Line Graph](/analysis/PyBer_fare_summary.png)
+![Line Graph](https://github.com/Ev9784/PyBer-Analysis/blob/main/PyBer_fare_summary.png?raw=true)
 
 
 ## Summary and Recommendations: 
