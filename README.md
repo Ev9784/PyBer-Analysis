@@ -1,4 +1,4 @@
-# **PyBer Analysis** :oncoming_automobile: :blue_car:
+:oncoming_automobile: :blue_car:# **PyBer Analysis** :oncoming_automobile: :blue_car:
 
 ## Overview of Project:
 
@@ -20,7 +20,7 @@ Urban	    1,625	        2,405	        $39,854.38	            $24.53	            
 ![Line Graph](https://github.com/Ev9784/PyBer-Analysis/blob/main/PyBer_fare_summary.png?raw=true)
 
 
-## Summary and Recommendations: 
+:oncoming_automobile: :blue_car: ## Summary and Recommendations: :oncoming_automobile: :blue_car:
 
 1. After reviewing all the data, one contrast noted in the research is a lower average fare per driver for the urban drivers. I  would recommend that Pyper should work on boosting incentives for growth amongst rural drivers.
 
